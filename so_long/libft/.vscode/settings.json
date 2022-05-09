@@ -1,0 +1,13 @@
+{
+	"terminal.integrated.automationShell.linux": "true",
+	"terminal.integrated.automationShell.osx": "true",
+	"cmake.configureOnOpen": true,
+	"files.associations": {
+		"__bit_reference": "c",
+		"algorithm": "c",
+		"bitset": "c",
+		"chrono": "c",
+		"unordered_map": "c",
+		"libft.h": "c"
+	}
+}
